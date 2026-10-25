@@ -1,0 +1,7 @@
+venv/
+.env
+__pycache__/
+*.docx
+prompt.md
+school_client.py
+trash/
